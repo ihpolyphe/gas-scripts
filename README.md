@@ -1,4 +1,4 @@
-# gas^scripts
+# gas-scripts
 
 GASを使って必要な情報をLINEに通知することができるリポジトリ。
 
